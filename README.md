@@ -127,8 +127,7 @@ Common issues and solutions:
 
 ## Overall Project Structure
 
-|  | Marketing landing page | Client app (beta) | Orchestration/agent system | Analyics
-| :---: | :---: | :---: | :---: | :---: |
-| Github |  [repo_1](https://github.com/krik8235/pj_m_dev_home)  | [repo_2](https://github.com/krik8235/client-app) | [multi-agent-system](https://github.com/versionHQ/multi-agent-system) | [repo_b](https://github.com/versionHQ/clutering-analysis) |
-| Website | [home](https://home.versi0n.io) | [client app](https://versi0n.io) | - | - |
-
+|  | Marketing page | Client app (beta) | Test app | Orchestration/agent system | Analyics |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Github |  [repo_1](https://github.com/krik8235/pj_m_dev_home)  | [repo_a](https://github.com/krik8235/pj_m_dev) | [repo_b](https://github.com/versionHQ/test-client-app) | [repo_c](https://github.com/versionHQ/multi-agent-system)  | [repo_d](https://github.com/versionHQ/clutering-analysis) |
+| Website | [home](https://home.versi0n.io) | [client app](https://versi0n.io) | (localhost) | - | - |
